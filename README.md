@@ -1,5 +1,5 @@
 # Mapeamento e distribuição potencial de coral-sol (*Tubastraea* Lesson, 1830) no Brasil
-> Trabalho desenvolvido como exercício avaliativo da disciplica de Ferramentas Computacionais em Ecologia.
+> Trabalho desenvolvido como exercício avaliativo da disciplina de Ferramentas Computacionais em Ecologia.
 # Introdução
 
 # Objetivos
